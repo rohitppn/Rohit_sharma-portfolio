@@ -209,6 +209,15 @@ section {
       font-size: 1rem;
       font-weight: 400;
       letter-spacing: .5px; }
+      h6 a{
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 400;
+      letter-spacing: .5px;
+      }
+      h6 a:hover{
+        color: red;
+      }
   #home .my-wrapper {
     display: flex;
     flex-direction: column;
